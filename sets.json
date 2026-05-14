@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "updated": "2026-05-14",
+  "categories": ["language", "academic", "math", "cs", "history", "trivia", "misc"],
+  "sets": [
+    {
+      "slug": "japanese-radicals",
+      "name": "japanese radicals",
+      "category": "language",
+      "description": "the 214 kangxi radicals with mnemonic glosses",
+      "cards": 214,
+      "format": "apkg",
+      "keywords": ["kanji", "japanese", "chinese", "kangxi", "bushu"],
+      "built": false,
+      "added": "2026-05-14"
+    },
+    {
+      "slug": "ipa-consonants",
+      "name": "ipa consonants",
+      "category": "language",
+      "description": "the full ipa consonant chart with audio cues",
+      "cards": 84,
+      "format": "apkg",
+      "keywords": ["phonetics", "phonology", "linguistics", "international phonetic alphabet"],
+      "built": false,
+      "added": "2026-05-14"
+    },
+    {
+      "slug": "greek-letters",
+      "name": "greek letters",
+      "category": "math",
+      "description": "upper and lowercase greek with their standard math uses",
+      "cards": 48,
+      "format": "apkg",
+      "keywords": ["greek", "alphabet", "mathematics", "symbols"],
+      "built": false,
+      "added": "2026-05-14"
+    },
+    {
+      "slug": "country-capitals",
+      "name": "country capitals",
+      "category": "trivia",
+      "description": "every un-recognized country paired with its capital city",
+      "cards": 195,
+      "format": "apkg",
+      "keywords": ["geography", "world", "nations", "cities"],
+      "built": false,
+      "added": "2026-05-14"
+    }
+  ]
+}
